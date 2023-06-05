@@ -3,10 +3,33 @@
     margin: 0;
     box-sizing: border-box;
 }
-.up {
-    transform: rotate(-135deg);
-    -webkit-transform: rotate(-135deg);
-  }
-.nav{
+body{
+    background-color: black;
+}
+nav{
     display: flex;
+}
+.logo{
+    margin-left: 85px;
+    margin-top: 15px;
+}
+.nav{
+    list-style: none;
+    margin-left: 250px;
+    margin-top: 45px;
+    display: flex;
+}
+nav li{
+    margin-left: 25px;
+    color: white;
+}
+.nav-right-section{
+    display: flex;
+    color: white;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+nav div li{
+    list-style: none;
+    margin-top: 25px;
 }
