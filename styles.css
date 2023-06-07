@@ -27,9 +27,28 @@ nav li{
     display: flex;
     color: white;
     margin-top: 20px;
-    margin-left: 350px;
+    margin-left: 30%;
 }
+
 nav div li{
     list-style: none;
     margin-top: 25px;
+    z-index: 1;
 }
+.nav-pink-backg{
+    position: absolute;
+    margin-top: 25px;
+    margin-left:45px;
+}
+.main-section1{
+    display: flex;
+    color: white;
+    margin-left: 85px;
+    margin-top: 15px;
+    height: 800px;
+}
+.main-sect1-heading{
+   font-size: 25   
+}
+
+
