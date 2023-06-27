@@ -41,14 +41,19 @@ nav div li{
     margin-left:45px;
 }
 .main-section1{
-    display: flex;
+    
     color: white;
     margin-left: 85px;
-    margin-top: 15px;
+    margin-top: 55px;
     height: 800px;
+    width: 100%;
 }
 .main-sect1-heading{
-   font-size: 25   
+   font-size:75px;   
+}
+.main-section-line-two{
+    margin-top: 20px;
+    font-size: 24px;
 }
 
 
