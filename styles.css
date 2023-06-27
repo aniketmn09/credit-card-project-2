@@ -27,7 +27,7 @@ nav li{
     display: flex;
     color: white;
     margin-top: 20px;
-    margin-left: 30%;
+    margin-left: 29%;
 }
 
 nav div li{
@@ -38,7 +38,7 @@ nav div li{
 .nav-pink-backg{
     position: absolute;
     margin-top: 25px;
-    margin-left:45px;
+    margin-left:60px;
 }
 .main-section1{
     
@@ -55,5 +55,37 @@ nav div li{
     margin-top: 20px;
     font-size: 24px;
 }
-
-
+.sub-sect-left1{
+    display: flex;
+    margin-top: 85px;
+}
+.pink-bgc-subsect-1{
+    position: absolute;
+    height: 30px;
+    z-index: -1;
+    margin-left: -12px;
+}
+.sub-sect-left1-h2{
+    margin-left: 20px;
+    margin-right: 15px;
+}
+.sub-sect-left2{
+    display: flex;
+    margin-top: 85px;
+}
+.subsect-left2-number-h-1{
+    font-size: 45px;
+}
+.subsect-left1-para1{
+    margin-left: 20px;
+    margin-right: 25px;
+    font-size: 21px;
+}
+.subsect-left2-number-h-2{
+    font-size: 45px;
+    margin-right: 20px;
+    margin-left: 25px;
+}
+.subsect-left1-para2{
+    font-size: 21px;
+}
